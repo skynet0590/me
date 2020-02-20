@@ -56,7 +56,7 @@ and build some small website of company's client.
    It is about this time. I have started to learn Golang and do in an outsource project.
    It is not company's project.
 ---
- - **Feb Mar 2017 - Feb 2018**: Software developer at Raedahgroup(DECRED)
+ - **Feb 2018 till now**: Software developer at Raedahgroup(DECRED)
  
    - **Work** : Maintain and develop the websites of company's client.
  
