@@ -58,7 +58,7 @@ and build some small website of company's client.
 ---
  - **Feb 2018 till now**: Software developer at Raedahgroup(DECRED)
  
-   - **Work** : Develop the software related in blockchain industry. 
+   - **Work** : Develop the software related in blockchain industry (almost are DECRED). 
    Help to bring more members for extend the team 
  
    - **Used Technology** : 
