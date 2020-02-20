@@ -64,7 +64,7 @@ and build some small website of company's client.
    - **Used Technology** : 
      - **Backend language** : `Go`.
      - **Javascript/CSS library** : `Jquery`, `Bootstrap`, `Vuejs`.
-     - **Database** : Mysql, BoldDb(stormdb)
+     - **Database** : Mysql, PostgreSQL, CockroachDB, BoldDb(stormdb)
      - **Source code controller**: Git
    - **Description** : This is a remote working company. We use `Go` in all the project we do.
    Almost project is associated with blockchain industry; include exchanges API. 
